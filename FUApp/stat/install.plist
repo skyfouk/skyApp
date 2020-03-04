@@ -12,7 +12,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>url</key>
-                  <string>https://***/XXX.ipa</string>
+                  <string>https://github.com/skyfouk/skyApp/blob/master/FUApp/stat/FuiouCollect.ipa</string>
               </dict> 
                              
               <dict>
@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://***/Icon57.png</string>
+                    <string>https://github.com/skyfouk/skyApp/blob/master/FUApp/stat/appIcon.png</string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://***/Icon57.png</string>
+                    <string>https://github.com/skyfouk/skyApp/blob/master/FUApp/stat/appIcon.png</string>
                 </dict>
            </array>
             
